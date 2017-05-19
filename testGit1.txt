@@ -1,9 +1,8 @@
 Hi hellooo!!
 hello! Sarthak......
 How are you?
-Branch made...
-<<<<<<< HEAD
-Hii Hell boy
-=======
-Hi Suneel
->>>>>>> a68e5bf0d21292c4002a52c64a056b21828c023f
+
+Branch made...Hii Hell boyHi Suneel
+
+
+after fork....................
